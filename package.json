@@ -10,7 +10,8 @@
     "lint:fix": "eslint src/**/*.js --fix",
     "lint": "eslint src/**/*.js",
     "prettify": "prettier src/**/*.js --write",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test": "echo run test"
   },
   "repository": {
     "type": "git",
